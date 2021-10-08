@@ -1,0 +1,71 @@
+.colorBlack {
+    background-color: black;
+}
+
+.colorWhite {
+    color: white;
+}
+
+.colorGray {
+    color: gray;
+}
+
+.img-thumbnail-logo {
+    padding: 0;
+    border: none;
+}
+
+.nav-link {
+    color: rgb(202, 202, 202) !important;
+    font-size: small;
+}
+
+.active .nav-link {
+    color: #fff !important;
+    font-weight: 500;
+}
+
+.blue {
+    color: #0073e6;
+}
+
+.navbar-brand {
+    width: 100px;
+}
+
+.nav-icons {
+    font-size: 18px;
+}
+
+.btn1 {
+    font-size: 12px;
+    border: none;
+    background-color: rgb(213, 214, 216);
+    padding: .25rem;
+    padding-left: 22px;
+    padding-right: 22px;
+    box-shadow: 1px 2px rgb(179, 178, 178);
+}
+
+.hr {
+    height: 10px;
+    color: black;
+}
+
+h5 {
+    font-size: 16px;
+    color: #757575;
+    font-family: Helvetica, sans-serif;
+}
+
+p {
+    font-size: 16px;
+}
+
+.line {
+    line-height: 6px;
+}
+
+.row-space {
+    justify-content: space-between;
+}
